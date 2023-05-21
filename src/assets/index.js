@@ -29,12 +29,12 @@ import sena from "./sena.png";
 import musty from "./musty.png";
 import hissam from "./hissam.png";
 import gulo from "./gulo.png";
-import img1 from "./img1.png";
-import img2 from "./img2.png";
-import img3 from "./img3.png";
-import img4 from "./img4.png";
-import img5 from "./img5.png";
-import img6 from "./img6.png";
+import img1 from "./imag1.png";
+import img2 from "./imag2.png";
+import img3 from "./imag3.png";
+import img4 from "./imag4.png";
+import img5 from "./imag5.png";
+import img6 from "./imag6.png";
 import github from "./githubb.png";
 export {
   airbnb,
