@@ -33,9 +33,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Personalized Recommendations",
+    title: "Tuned for You",
     content:
-      "Funravel knows your music taste. Simply tell us what you like, and we'll recommend concerts that you're sure to love",
+      "Funravel knows your music taste. Simply tell us what you like and enjoy a personalized concert lineup curated exclusively for you. Never miss a beat with your favorite artists' shows.",
   },
 ];
 
@@ -74,7 +74,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Sena Genç",
+    name: "Fatma Sena Genç",
     title: "The Creative Genius",
     img: sena,
     logbookLink: "https://glossy-pot-17b.notion.site/Fatma-Sena-Gen-c2876efdbcb54e75b4cf044dc3872efc",
@@ -136,6 +136,16 @@ export const report = [
     name: "User Manual",
     title: "",
     img: people03,
+    download : "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3b309ace-43b7-3000-9a71-226e87a9d6f6"
+  },
+  {
+    id: "feedback-3",
+    content:
+      "It is usually people in the money business, finance, and international trade that are really rich.",
+    name: "Final Presentation",
+    title: "",
+    img: people03,
+    download : "https://docs.google.com/presentation/d/1pg3RCY8Wh-SiOK1L6VhPIB7pe4bebk8dYMdWaLW7ln4/edit?usp=sharing"
   },
 ];
 

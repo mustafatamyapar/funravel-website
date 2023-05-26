@@ -25,16 +25,16 @@ const Business = () =>  (
        Why Funravel?
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Funravel is your one-stop app for concert travel, offering an unmatched suite of features designed to make your concert trips effortless and enjoyable. Unlike our competitors, Funravel provides: Personalized travel plans, Fan connections and User-friendly design.
+      Funravel is your one-stop app for concert travel, offering an unmatched suite of features designed to make your concert trips effortless and enjoyable. Unlike our competitors, Funravel provides: Personalized comprehensive travel plans, fan connections and personalized user experience.
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       When compared to our competitors:
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Songkick: While they provide a concert discovery feature and basic travel planning options, they lack the comprehensive, personalized planned packages and fan connection features available in Funravel.
+      Bandsintown: Bandsintown offers some basic travel planning features only for hotels, and a review feature but they do not have comprehensive plan features and other social features.
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Bandsintown: Bandsintown offers some basic travel planning features, and a review feature but they do not have comprehensive plan features and other social features.
+      Songkick: While they provide a concert discovery feature , they lack the travel planning and fan connection features available in Funravel.
       </p>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
       StubHub, Vivid Seats, Ticketmaster: These ticket marketplaces offer buying and selling of tickets but fall short by not offering any travel planning features or fan interaction options.
