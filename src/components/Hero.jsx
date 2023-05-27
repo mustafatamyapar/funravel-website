@@ -46,7 +46,7 @@ const Hero = () => {
       <div className={`ss:hidden ${styles.flexCenter}`}>
       </div>
       <div className={`flex w-full justify-center items-center flex-wrap mt-10`}>
-      <div className="flex flex-row flex-wrap sm:mt-10 mt-6 lg:translate-x-[-220px]" style={{marginTop: '400px'}}>
+      <div className="flex flex-row flex-wrap sm:mt-10 mt-6 lg:translate-x-[-220px]" style={{marginTop: '300px'}}>
           <a href="https://play.google.com/store/apps/details?id=com.funravel_v0&gl=TR" target="_blank" rel="noopener noreferrer">
             <img src={google} alt="Google Play Store" className="w-[184.17px] h-[83.08px] object-contain cursor-pointer" />
           </a>

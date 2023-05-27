@@ -136,7 +136,7 @@ export const report = [
     name: "User Manual",
     title: "",
     img: people03,
-    download : "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:3b309ace-43b7-3000-9a71-226e87a9d6f6"
+    download : "https://docs.google.com/document/d/1xZNnlZbY4ZpN4i7YtuXKCZRxGEIoeMJc6A1on47G4yw/edit?usp=sharing"
   },
   {
     id: "feedback-3",
