@@ -109,7 +109,7 @@ export const report = [
     name: "Project Analysis Report",
     title: "",
     img: people02,
-    download :"https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:7544fe3d-ca07-3161-8e5a-b017a50b153c"
+    download :"https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fbb9befe-02fd-3a90-9c96-c49f4ff1e4eb"
   },
   {
     id: "feedback-3",
@@ -118,7 +118,7 @@ export const report = [
     name: "Detailed Design Report",
     title: "",
     img: people03,
-    download : "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fbb9befe-02fd-3a90-9c96-c49f4ff1e4eb"
+    download : "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:7544fe3d-ca07-3161-8e5a-b017a50b153c"
   },
   {
     id: "feedback-3",
